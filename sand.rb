@@ -1,5 +1,4 @@
 
-while true do
+while true {
   puts "hello"
-end
-end-of-input
+}
