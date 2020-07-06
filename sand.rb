@@ -1,4 +1,3 @@
-
 while true {
   puts "hello"
 }
