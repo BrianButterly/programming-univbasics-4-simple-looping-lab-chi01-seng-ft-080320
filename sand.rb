@@ -1,3 +1,3 @@
-while true {
-  puts "hello"
-}
+5.times do |index|
+  puts index
+end 
